@@ -1580,5 +1580,12 @@
     "addresses": ["bitcoincash:qqrv9kvfvu8mtldpha83qmkg33fnyrdn9vgllqcw3g"],
     "tags": ["/Second Chance Digital/"],
     "link": "https://www.2ndchancedigital.com"
+  },
+  {
+    "id": 207,
+    "name": "MKPool.com",
+    "addresses": [],
+    "tags": ["/mkpool.com/"],
+    "link": "https://mkpool.com"
   }
 ]
