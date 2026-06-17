@@ -1587,5 +1587,12 @@
     "addresses": [],
     "tags": ["/mkpool.com/"],
     "link": "https://mkpool.com"
+  },
+  {
+    "id": 208,
+    "name": "SoloFury",
+    "addresses": [],
+    "tags": ["SoloFury BCH"],
+    "link": "https://solofury.com"
   }
 ]
