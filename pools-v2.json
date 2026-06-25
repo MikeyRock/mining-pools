@@ -1595,9 +1595,8 @@
     "tags": ["SoloFury BCH"],
     "link": "https://solofury.com"
   }
-]
-
 {
+  "id": 209,
   "name": "MikeyRocks",
   "link": "",
   "regexes": ["MikeyRocks"],
